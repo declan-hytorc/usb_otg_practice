@@ -1,0 +1,4 @@
+../Core/Src/hexFileParser.c:14:12:parseHexLine	48	static
+../Core/Src/hexFileParser.c:66:13:flushHexRow	24	static
+../Core/Src/hexFileParser.c:76:16:String_to_Byte	16	static
+../Core/Src/hexFileParser.c:84:16:Char_to_Hex	24	static

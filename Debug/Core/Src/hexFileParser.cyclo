@@ -1,0 +1,4 @@
+hexFileParser.c:14:12:parseHexLine	6
+hexFileParser.c:66:13:flushHexRow	2
+hexFileParser.c:76:16:String_to_Byte	1
+hexFileParser.c:84:16:Char_to_Hex	17

@@ -1,0 +1,8 @@
+flash_manager.c:18:13:initFlashMemoryManager	1
+flash_manager.c:30:13:exitFlashMemoryManager	1
+flash_manager.c:37:13:writeProgramFlash	2
+flash_manager.c:51:13:flashWriteByte	1
+flash_manager.c:69:13:eraseFlashMemorySector	1
+flash_manager.c:92:13:lockFlashAccess	2
+flash_manager.c:99:13:unlockFlashAccess	2
+flash_manager.c:108:13:waitForLastOperation	2
